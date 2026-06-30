@@ -1,0 +1,2 @@
+# 4a5ad7a58548ecb7-devops-infra-survey-and-feedba
+You shouldn't need a developer on retainer for routine WordPress tasks to add powerful functionality to WordPress without writing code.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Devops Infra Survey And Feedback Collection — fully configured and rea
